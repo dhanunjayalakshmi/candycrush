@@ -1,0 +1,26 @@
+{
+  "name": "candycrush",
+  "description": "Candycrush game",
+  "main": "index.js",
+  "authors": [
+    "Dhanunjaya Lakshmi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "candycrush",
+    "web",
+    "js"
+  ],
+  "homepage": "https://github.com/dhanunjayalakshmi/candycrush",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
